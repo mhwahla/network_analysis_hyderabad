@@ -13,3 +13,5 @@ The comprehensive project report detailed the methodology, data sources, analysi
 
 
 ![NETWORK ANALYSIS pptx (1)](https://github.com/mhwahla/AU_SOIL_WEBAPP/assets/51794945/409b1897-8333-4412-ac9f-aca6720bf0ae)
+
+Check full detailed ppt at this link (https://docs.google.com/presentation/d/1DLKgd9eYwkvnOVOghuSTL2DapbZJE3Bg/edit#slide=id.p42)
